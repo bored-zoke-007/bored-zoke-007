@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-<!--
-**bored-zoke-007/bored-zoke-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm bored and I'm zoke (what ever that means)
+
+
+<!--**bored-zoke-007/bored-zoke-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
